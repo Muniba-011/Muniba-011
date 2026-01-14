@@ -3,7 +3,7 @@
 # Hi there, I'm Muniba_khan 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Kaushan+Script&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+🎓;Building+Nominated+Backend+Projects+🥇;Exploring+C%23,+ASP.NET+%26+TypeScript+💻;AI+Learning+Pathway+🤖&v=123" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Kaushan%20Script&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+🎓;Building+Nominated+Backend+Projects+🥇;Exploring+C%23,+ASP.NET+%26+TypeScript+💻;AI+Learning+Pathway+🤖&v=9999" alt="Typing SVG" />
 </a>
 
 ### About Me 👩🏻‍💻
@@ -49,8 +49,11 @@ My long-term goal is to integrate **Artificial Intelligence & Machine Learning**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muniba-011&show_icons=true&theme=radical" height="150" alt="Muniba's stats" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muniba-011&layout=compact&theme=radical" height="150" alt="Top Languages" />
 </div>
+
+---
 
 <div align="center">
   <b>Let's Connect & Code!🤝</b>
