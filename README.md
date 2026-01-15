@@ -3,7 +3,7 @@
 # Hi there, I'm Muniba_khan 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Kaushan%20Script&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+🎓;Building+Nominated+Backend+Projects+🥇;Exploring+C%23,+ASP.NET+%26+TypeScript+💻;AI+Learning+Pathway+🤖&v=9999" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&weight=700&size=30&pause=1000&color=6c63ff&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+🎓;Building+Nominated+Backend+Projects+🥇;Exploring+C%23,+ASP.NET+%26+TypeScript+💻;AI+Learning+Pathway+🤖&v=9999" alt="Typing SVG" />
 </a>
 
 ### About Me 👩🏻‍💻
