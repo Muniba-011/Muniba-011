@@ -45,19 +45,17 @@ My long-term goal is to integrate **Artificial Intelligence & Machine Learning**
 
 ---
 
-### 📊 **Github Stats**
-
 <div align="center">
+  <h3>Muniba's GitHub Stats 📊</h3>
 
-  <img src="https://github-readme-stats.b2k.sh/api?username=Muniba-011&show_icons=true&theme=radical" height="150" alt="Muniba's Stats" />
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" width="10" height="0" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muniba-011&theme=radical" alt="Profile Details" />
 
-  <img src="https://github-readme-stats.b2k.sh/api/top-langs/?username=Muniba-011&layout=compact&theme=radical" height="150" alt="Top Languages" />
+  <br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muniba-011&theme=radical" alt="Languages" />
 
 </div>
 
----
 
 <div align="center">
   <b>Let's Connect & Code!🤝</b>
