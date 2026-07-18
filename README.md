@@ -1,37 +1,45 @@
 <div align="center">
 
-# Hi there, I'm Muniba_khan 👋
+# Hi there, I'm Muniba 👋
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&weight=700&size=30&pause=1000&color=6c63ff&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+🎓;Turning+Ideas+into+Reality+🥇;Exploring+C%23,+ASP.NET+%26+TypeScript+💻;AI+Learning+Pathway+🤖&v=9999" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=500&size=30&pause=1000&color=00ffcc&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+🎓;Building+the+Future+with+Code+🚀;MERN+Stack+&+Flutter+Explorer+💻&v=9999" alt="Typing SVG" />
 
-### About Me 👩🏻‍💻
+---
+
+### 🎮 Player Stats
+`Level: 3rd Semester Student` | `Status: Always Coding` | `Focus: Full Stack & App Dev`
+
+---
 
 </div>
 
-I am a passionate developer building the bridge between **Robust Backends** and **Interactive Frontends**. With a strong foundation, I am currently expanding my expertise into the **.NET ecosystem** and **Modern JavaScript Frameworks**.
+### 🛠 My Tech Arsenal
+
+| Category | Skills |
+| :--- | :--- |
+| **Backend** | C#, ASP.NET, SQL Server, MongoDB (In-Progress) |
+| **Frontend** | Advanced JavaScript, TypeScript, HTML5, CSS3 |
+| **App Dev** | Flutter & Firebase |
+| **Coming Soon** | Express.js, React, Node.js |
 
 ---
 
-### 🚀 **Technical Roadmap & Experience**
-
-* **Frontend Engineering:**
-   * Established a rigorous foundation in UI/UX with **HTML5, CSS3, JavaScript ,Bootstrap**.
-   * Implemented SEO best practices and version control via **Git/GitHub**.
-
-* **Backend Architecture:**
-   * 🏆 **Distinction:** Co-developed a **Nominated Backend Project** using **Core PHP & MySQL**.
-   * Engineered dynamic data solutions using **XML/JSON** and managed **WordPress/Shopify** ecosystems.
-
-* **Current Focus: Database & Modern Stack:**
-   * ⚙️ **Data Engineering:** Architecting complex solutions in **SQL Server** (Triggers, Stored Procedures, Error Handling & Analytical Cubes).
-   * 💻 **Next-Gen Development:** Transitioning to **C#, ASP.NET**, and **TypeScript** with **Material UI** for enterprise-level applications.
+### 🕹 Current Quests
+*   **Database Mastery:** Currently diving deep into **MongoDB** and aggregation pipelines.
+*   **The MERN Journey:** Preparing to master the MERN stack (React, Node, Express) as part of my academic roadmap.
+*   **Side Quest:** Building mobile applications using **Flutter & Firebase** to explore cross-platform development.
 
 ---
 
-### 🔮 **Future Vision**
-My long-term goal is to integrate **Artificial Intelligence & Machine Learning** with Full Stack Development to build smart, data-driven web applications.
+<div align="center">
+
+### ⚡ GitHub Activity
+![Muniba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muniba_khan&show_icons=true&theme=midnight-purple&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muniba_khan&layout=compact&theme=midnight-purple&hide_border=true)
+
+*Feel free to reach out for collaborations or project discussions!*
+
+</div>
 
 ---
 
@@ -44,18 +52,6 @@ My long-term goal is to integrate **Artificial Intelligence & Machine Learning**
 | ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) | ![Material UI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
 ---
-
-<div align="center">
-  <h3>Muniba's GitHub Stats 📊</h3>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muniba-011&theme=radical" alt="Profile Details" />
-
-  <br/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muniba-011&theme=radical" alt="Languages" />
-
-</div>
-
 
 <div align="center">
   <b>Let's Connect & Code!🤝</b>
