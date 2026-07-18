@@ -31,6 +31,13 @@ As a dedicated Software Engineering student,I specialize in bridging the gap bet
 </p>
 
 ---
+---
+### 📊 **System Analytics**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muniba-011&show_icons=true&theme=tokyonight&hide_border=true&title_color=D0A9F5&timestamp=20260719" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muniba-011&layout=compact&theme=tokyonight&hide_border=true&title_color=D0A9F5&timestamp=20260719" height="170" alt="Top Languages" />
+</p>
 
+</p>
 ### 🔮 **Future Vision**
 My long-term goal is to seamlessly integrate modern web frameworks and mobile technologies to build highly scalable applications. Beyond mastering the MERN stack and cross-platform app development, my ultimate frontier is diving into **Artificial Intelligence and Machine Learning**. I am passionate about eventually blending full-stack engineering with AI to create intelligent, predictive, and data-driven software solutions from the ground up.
